@@ -4,6 +4,9 @@
 
 This repository contains a sales analysis dashboard that provides insights into sales performance, profitability, and customer spending patterns. The dashboard visualizes key sales metrics to support data-driven decision-making.
 
+![Screenshot 2025-02-16 001033](https://github.com/user-attachments/assets/35161d5d-9f52-4f37-a1e5-d544b6ce3a7d)
+
+
 ## Key Metrics
 
 - Total Quantity Sold: 5615
